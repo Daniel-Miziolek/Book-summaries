@@ -1,0 +1,42 @@
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.exe
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.deps.json
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.runtimeconfig.json
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\ref\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.pdb
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form1.resources
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Properties.Resources.resources
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.AssemblyInfo.cs
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\ref\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.pdb
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.genruntimeconfig.cache
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form2.resources
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form3.resources
+C:\Users\danie\source\repos\AplikacjaEdukacyjnaWindowsFormsApp1\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form4.resources
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.exe
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.deps.json
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.runtimeconfig.json
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\ref\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\bin\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.pdb
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form1.resources
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form2.resources
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form3.resources
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Form4.resources
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.Properties.Resources.resources
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.AssemblyInfo.cs
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\ref\AplikacjaEdukacyjnaWindowsFormsApp1.dll
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.pdb
+C:\Users\danie\Desktop\Streszczalnia książek\AplikacjaEdukacyjnaWindowsFormsApp1\obj\Debug\net6.0-windows\AplikacjaEdukacyjnaWindowsFormsApp1.genruntimeconfig.cache
